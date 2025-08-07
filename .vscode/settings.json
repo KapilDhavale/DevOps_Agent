@@ -1,0 +1,10 @@
+{
+  // … your existing settings …
+
+  // Tell the Dockerfile utility extension to ignore Python files:
+  "dockerfile-utils.files.exclude": [
+    "**/*.py"
+  ]
+
+  // … any other settings …
+}
